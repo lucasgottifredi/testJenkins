@@ -1,6 +1,6 @@
 USE clinica_saezco;
 
-CREATE TABLE prueba5121 (
+CREATE TABLE prueba51211111 (
     id INT AUTO_INCREMENT PRIMARY KEY,
     nombre VARCHAR(255) NOT NULL,
     apellido VARCHAR(255) NOT NULL,
